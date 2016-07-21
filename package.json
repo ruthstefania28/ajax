@@ -1,0 +1,11 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "Proyecto Ejemplo de ajax",
+  "scripts": {},
+  "author": "Ruth Stefania",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
